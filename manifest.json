@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "name": "PivotCity",
+    "path": "/storage/emulated/0/RootBase/PivotCity",
+    "languages": {
+      "python": 3
+    },
+    "entrypoints": [
+      "charter.py"
+    ],
+    "package_json": false,
+    "requirements": 0,
+    "readme_excerpt": "",
+    "last_modified": "2026-06-22T04:14:18.078504"
+  },
+  "runbook": {
+    "commands": [
+      "python charter.py"
+    ],
+    "env": [],
+    "notes": []
+  },
+  "bard_note": "Can't tell what this does \u2014 it's a mystery wrapped in a folder. (Bardildo: harsh truth incoming)"
+}
